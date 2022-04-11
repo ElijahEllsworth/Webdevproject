@@ -1,0 +1,32 @@
+.bg{
+  background-image: url("../images/Idahobackg.jpg");
+}
+a:visited{
+  text-decoration: none;
+  color: white;
+}
+.myselfpic{
+  width: 500px;
+  height: 400px;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.underline{
+  text-decoration: underline;
+}
+.bold{
+  font-weight: bold;
+}
+.fontchange{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.textcenter{
+  text-align: center;
+}
+.indentpg {
+  text-indent: 25px;
+}
